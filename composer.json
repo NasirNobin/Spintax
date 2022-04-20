@@ -1,6 +1,6 @@
 {
     "version": "1.3.0",
-    "name": "madeitbelgium/spintax",
+    "name": "nobin-madeitbelgium/spintax",
     "description": "Generate multiple artikels based on one text.",
     "keywords": ["SEO", "onpage", "content", "bulk", "copywriting", "laravel"],
     "license": "MIT",
